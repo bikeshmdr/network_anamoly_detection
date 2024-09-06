@@ -1,5 +1,5 @@
 <h1>Data Source</h1>
-<p>This dataset is sourced from <a href =https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection?select=Train_data.csv>mnist provided dataset<a>
+<p>This dataset is sourced from <a href =https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection?select=Train_data.csv>kaggle dataset<a>
 
 <h1>Data Cleaning</h1>
 <p>
