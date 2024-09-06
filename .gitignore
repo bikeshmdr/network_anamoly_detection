@@ -29,7 +29,7 @@ data_cleaning.ipynb
 logged_features.csv
 model_training_anamoly_grouped.ipynb
 model_training_with_outliers.ipynb
-model_trainin.ipynb
+model_training.ipynb
 pyenv.cfg
 server_count.csv
 srevice_counts.csv
