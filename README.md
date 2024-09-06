@@ -79,3 +79,7 @@
 <p>The deployed link for streamlit is <a href =https://networkanamolydetectiondeployment-jjgwgf3gkva2sryrstrvik.streamlit.app>streamlit.io<a></p>
 
 <h1>Demo</h1>
+<p>
+https://github.com/user-attachments/assets/441a03cc-c961-48f9-9b72-6d358ea404fd
+
+</p>
