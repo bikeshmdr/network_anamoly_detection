@@ -1,0 +1,39 @@
+# different downloaded dataset
+dataset/kddcup.data
+dataset/kddcup.data_10_percent
+dataset/kddcup.newtestdata_10_percent_unlabeled
+dataset/kddcup.testdata.unlabeled
+dataset/kddcup.testdata.unlabeled_10_percent
+dataset/corrected
+
+# testing preprocessing datasets
+dataset/preprocessed_datas_kdd_outlier_removed.csv
+dataset/preprocessed_datas_kdd.csv
+dataset/preprocessed_datas.csv
+dataset/preprocessed_datas2.csv
+
+
+include
+lib
+scripts
+share
+
+# models
+model/kdd_without_duration
+model/with_outliers
+
+bike.csv
+
+# used during testing with kdd dataset
+data_cleaning.ipynb
+logged_features.csv
+model_training_anamoly_grouped.ipynb
+model_training_with_outliers.ipynb
+model_trainin.ipynb
+pyenv.cfg
+server_count.csv
+srevice_counts.csv
+testing.ipynb
+
+
+real_testing.ipynb
